@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<student-bean xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:java="http://java.sun.com" xsi:type="java:org.avol.springoxm.castor.beans.StudentBean">
+    <address>Bangalore</address>
+    <name>SriRamya</name>
+</student-bean>
